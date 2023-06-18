@@ -1,2 +1,2 @@
 # java_codewars
-Here i will add my solutions for codewars exercices 
+Here I will add my solutions for codewars exercices 
